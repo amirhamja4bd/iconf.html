@@ -1,0 +1,149 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 90%;
+	margin: auto;
+}
+/*.all ul{
+	list-style-type:none;
+	margin-top: 40px;
+}
+.all ul li{
+	display: inline-block;
+}
+.all ul li a{
+	width: 40px;
+	height: 30px;
+	background: red;
+	color: #fff;
+	padding: 30px 40px;
+	font-size: 40px;
+	border-radius: 10px;
+}
+.all ul li a:hover{
+	background: indigo;
+	color: yellow;
+	border-radius: 50%;
+}
+*/
+
+
+
+.icon-area ul{
+	list-style-type:none;
+	margin-top: 40px;
+}
+.icon-area ul li{
+	display: inline-block;
+}
+.icon-area ul li a{
+	width: 40px;
+	height: 30px;
+	background: red;
+	color: #fff;
+	padding: 30px 40px;
+	font-size: 40px;
+	border-radius: 10px;
+	transition: 1s;
+}
+.icon-area ul li a:hover{
+	background: indigo;
+	color: yellow;
+	border-radius: 50%;
+}
+/*2*/
+
+
+.two ul{
+	list-style-type:none;
+	margin-top: 40px;
+}
+.two ul li{
+	display: inline-block;
+}
+.two ul li a{
+	width: 40px;
+	height: 30px;
+	background: blue;
+	color: #fff;
+	padding: 30px 40px;
+	font-size: 40px;
+	border-radius: 5px 50px;
+	transition: 1s;
+}
+.two ul li a:hover{
+	background: #9b22a2;
+	color: yellow;
+	border-radius: 10px;
+}
+.three ul{
+	list-style-type:none;
+	margin-top: 40px;
+}
+.three ul li{
+	display: inline-block;
+}
+.three ul li a{
+	width: 40px;
+	height: 30px;
+	background: hotpink;
+	color: black;
+	padding: 30px 40px;
+	font-size: 40px;
+	border-radius: 10px;
+	transition: 1s;
+}
+.three ul li a:hover{
+	background: #7eff09;
+	color: black;
+	border-radius: 0px 60px 60px 60px;
+
+}
+.four ul{
+	list-style-type:none;
+	margin-top: 40px;
+}
+.four ul li{
+	display: inline-block;
+}
+.four ul li a{
+	width: 40px;
+	height: 30px;
+	background: #9b22a2;
+	color: #fff;
+	padding: 30px 40px;
+	font-size: 40px;
+	border-radius: 50%;
+	transition: 1s;
+}
+.four ul li a:hover{
+	background: tomato;
+	color: yellow;
+	border-radius: 5px;
+
+}
+.five ul{
+	list-style-type:none;
+	margin-top: 40px;
+}
+.five ul li{
+	display: inline-block;
+}
+.five ul li a{
+	width: 40px;
+	height: 30px;
+	background: #11ff01;
+	color: black;
+	padding: 30px 40px;
+	font-size: 40px;
+	border-radius: 0px 60px 60px 60px;
+	transition: 1s;
+}
+.five ul li a:hover{
+	background: blue;
+	color: yellow;
+	border-radius: 60px 60px 0px 60px;
+
+}
